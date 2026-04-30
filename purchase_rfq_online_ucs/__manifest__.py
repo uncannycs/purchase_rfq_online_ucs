@@ -11,6 +11,8 @@
     'name': 'Odoo Vendor Portal: Sign Purchase RFQ Online UCS',
     'version': '18.0.0.0.1',
     'category': 'Tools',
+    "price": 70,
+    "currency": "USD",
     'summary': 'You send your RFQ to your vendor. They preview it, they input the prices and sign online!',
     "author": "Uncanny Consulting Services LLP",
     "maintainers": "Uncanny Consulting Services LLP",
